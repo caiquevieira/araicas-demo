@@ -1,0 +1,22 @@
+# Araicás Consultório Veterinário & Pet Shop
+
+> Consultório veterinário e pet shop em Av. Gen. Mac Arthur, 1630 - Vila Lageado, São Paulo - SP, 05338-001. Banho e tosa, consultório veterinário, Pet Táxi e carding. Atendimento pelo WhatsApp (11) 94010-5328.
+
+## Dados do negócio
+
+- Endereço: Av. Gen. Mac Arthur, 1630 - Vila Lageado, São Paulo - SP, 05338-001
+- Horário: Seg a sex, 9h às 17h; sáb, 8h30 às 16h; domingo fechado
+- WhatsApp: (11) 94010-5328 (https://wa.me/5511940105328)
+- Instagram: https://www.instagram.com/araicaspetshop/
+
+## Serviços
+
+- Banho & Tosa
+- Consultório Veterinário
+- Pet Táxi
+- Carding & Tosa Higiênica
+
+## Páginas
+
+- [Página inicial](https://caiquevieira.github.io/araicas-demo/)
+- [Política de Privacidade](https://caiquevieira.github.io/araicas-demo/politica-de-privacidade.html)
